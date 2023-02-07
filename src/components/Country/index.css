@@ -1,0 +1,25 @@
+.country-list-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+.visit-button {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.country-name {
+  font-family: roboto;
+  color: #ffffff;
+  font-size: 15px;
+  border: none;
+}
+.line {
+  border-color: #334155;
+  width: 100%;
+  text-align: center;
+}
